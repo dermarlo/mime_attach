@@ -1,9 +1,4 @@
 This little perl-script lets you save mime attachments of an E-Mail to a specific folder automatically.
 My first intention for this script was a little photoblog, where I could send pictures I took via mobile phone to a special E-Mail-Adress and having them appear in the blog instantly.
 
-I used it in combination with procmail:
-
-:0:
-* ^From.*marlo@dermarlo.de
-| ~/mime_attach.pl
-
+I used it in combination with procmail.
